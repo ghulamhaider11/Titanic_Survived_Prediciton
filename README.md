@@ -1,7 +1,8 @@
 
-Titanic_Survival_Preidiction}
-Ghulam Haider}
-1/22/2024
+## Titanic_Survival_Preidiction} 
+
+### ***Author_Name = Ghulam Haider***
+### ***Date = 1/22/2024
 
 
 
